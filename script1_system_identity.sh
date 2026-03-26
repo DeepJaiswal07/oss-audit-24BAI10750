@@ -8,8 +8,8 @@
 # =============================================================
 
 # --- Student Info Variables ---
-STUDENT_NAME="[Your Name]"        # TODO: Replace with your name
-ROLL_NUMBER="[Your Roll Number]"  # TODO: Replace with your roll number
+STUDENT_NAME="Deep Jaiswal"        # TODO: Replace with your name
+ROLL_NUMBER="24BAI10750"  # TODO: Replace with your roll number
 SOFTWARE_CHOICE="Git"
 
 # --- Collect System Information using command substitution ---
