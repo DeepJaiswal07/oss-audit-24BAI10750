@@ -1,0 +1,44 @@
+================================================================
+  MY OPEN SOURCE MANIFESTO
+  By: [Your Name] | Roll: [Your Roll Number]
+  Date: [Today's Date - e.g. 26 March 2026]
+================================================================
+
+  Every day, I rely on Git — a tool that exists not because
+  someone wanted to profit from it, but because someone chose
+  to share it. To me, freedom means collaboration. That single
+  word is why open source matters: software built openly gives
+  every person the freedom to learn, adapt, and improve it
+  without asking permission.
+
+  The tool I would build and share freely is: a student
+  resource manager for college projects. By sharing it under
+  an open license, I would be doing what Linus Torvalds did
+  with Git — turning a personal frustration into a gift that
+  outlasts any single person or company. Standing on the
+  shoulders of giants means inheriting their generosity.
+  I choose to pass it forward.
+
+  Open source is not just a licensing model. It is a statement
+  that knowledge belongs to everyone. Every line of code shared
+  freely is a brick in a foundation that the whole world builds
+  on. I believe software should empower people, not lock them
+  in. I believe transparency builds better tools than secrecy.
+  And I believe the best way to learn is to read, modify, and
+  share — just as the open source community has always done.
+
+  This is my commitment: to use open tools, to credit the
+  giants whose work I stand on, and one day, to contribute
+  back to the community that gave me everything I needed to
+  grow as a developer.
+
+  Signed : [Your Name]
+  Date   : [Today's Date]
+  Tool   : Git
+  Freedom: Collaboration
+  Build  : [Something you would build — write your own here]
+
+================================================================
+  Generated on a system running open-source software.
+  Git, Bash, and Linux — all free, all GPL-2.0 licensed.
+================================================================
