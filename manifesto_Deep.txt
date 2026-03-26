@@ -1,7 +1,7 @@
 ================================================================
   MY OPEN SOURCE MANIFESTO
-  By: [Your Name] | Roll: [Your Roll Number]
-  Date: [Today's Date - e.g. 26 March 2026]
+  By: Deep Jaiswal | Roll: 24BAI10750
+  Date: 26th March 2026
 ================================================================
 
   Every day, I rely on Git — a tool that exists not because
