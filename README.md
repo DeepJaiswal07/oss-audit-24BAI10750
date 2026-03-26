@@ -3,8 +3,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Name] |
-| **Roll Number** | [Your Roll Number] |
+| **Student Name** | Deep Jaiswal |
+| **Roll Number** | 24BAI10750 |
 | **Chosen Software** | Git |
 | **License** | GNU General Public License v2 (GPL-2.0) |
 | **Course** | Open Source Software (OSS NGMC) |
