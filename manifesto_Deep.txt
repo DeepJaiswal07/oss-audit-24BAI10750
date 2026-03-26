@@ -32,11 +32,10 @@
   back to the community that gave me everything I needed to
   grow as a developer.
 
-  Signed : [Your Name]
-  Date   : [Today's Date]
+  Signed : Deep Jaiswal
+  Date   : 26th March 2026
   Tool   : Git
   Freedom: Collaboration
-  Build  : [Something you would build — write your own here]
 
 ================================================================
   Generated on a system running open-source software.
