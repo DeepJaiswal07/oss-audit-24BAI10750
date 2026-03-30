@@ -13,7 +13,7 @@
 
 ## About the Chosen Software: Git
 
-**Git** is a free and open-source distributed version control system created by **Linus Torvalds** in 2005. It was built in response to a licensing dispute with BitKeeper, the proprietary VCS previously used for Linux kernel development. In just two weeks, Torvalds wrote Git from scratch and licensed it under GPL-2.0 — ensuring no proprietary tool could ever hold the Linux project hostage again.
+**Git** is a free and open-source distributed version control system created by **Linus Torvalds** in 2005. It was built in response to a licensing dispute with BitKeeper, the proprietary VCS previously used for Linux kernel development. In just two weeks, Torvalds wrote Git from scratch and licensed it under GPL-2.0 , ensuring no proprietary tool could ever hold the Linux project hostage again.
 
 Today, Git is the backbone of nearly all modern software development, powering platforms like GitHub, GitLab, and Bitbucket.
 
