@@ -11,7 +11,7 @@
 
 ---
 
-## About the Chosen Software — Git
+## About the Chosen Software: Git
 
 **Git** is a free and open-source distributed version control system created by **Linus Torvalds** in 2005. It was built in response to a licensing dispute with BitKeeper, the proprietary VCS previously used for Linux kernel development. In just two weeks, Torvalds wrote Git from scratch and licensed it under GPL-2.0 — ensuring no proprietary tool could ever hold the Linux project hostage again.
 
@@ -37,28 +37,28 @@ oss-audit-[rollnumber]/
 
 ## Script Descriptions
 
-### Script 1 — System Identity Report
+### Script 1 : System Identity Report
 Displays a formatted welcome screen showing the Linux distribution, kernel version, logged-in user, home directory, system uptime, current date/time, and the open-source license covering the OS.
 
 **Key concepts:** Variables, `echo`, command substitution `$()`, output formatting.
 
 ---
 
-### Script 2 — FOSS Package Inspector
+### Script 2 : FOSS Package Inspector
 Checks whether Git (or any chosen package) is installed on the system. Handles both RPM-based and Debian-based Linux systems. Uses a `case` statement to print a philosophy note about the package.
 
 **Key concepts:** `if-then-else`, `case` statement, `rpm -qi` / `dpkg -s`, pipe with `grep`.
 
 ---
 
-### Script 3 — Disk and Permission Auditor
+### Script 3 : Disk and Permission Auditor
 Loops through a predefined list of important system directories and reports each directory's permissions, owner, group, and disk usage. Also specifically checks Git's config file locations.
 
 **Key concepts:** `for` loop, arrays, `ls -ld`, `du -sh`, `awk`, `cut`.
 
 ---
 
-### Script 4 — Log File Analyzer
+### Script 4 : Log File Analyzer
 Reads a log file line by line and counts how many lines contain a given keyword. Includes a retry mechanism if the file is empty, and prints the last 5 matching lines.
 
 **Key concepts:** `while read` loop, `if-then`, counter variables, command-line arguments `$1 $2`, `grep`, `tail`.
@@ -71,7 +71,7 @@ Reads a log file line by line and counts how many lines contain a given keyword.
 
 ---
 
-### Script 5 — Open Source Manifesto Generator
+### Script 5 : Open Source Manifesto Generator
 Interactively asks the user three questions and generates a personalised open source philosophy statement, saved to a `.txt` file named after the current user.
 
 **Key concepts:** `read` for user input, string concatenation, writing to file with `>` and `>>`, `date` command, alias concept demonstrated via a function.
@@ -80,13 +80,13 @@ Interactively asks the user three questions and generates a personalised open so
 
 ## How to Run the Scripts on Linux
 
-### Step 1 — Clone the Repository
+### Step 1 : Clone the Repository
 ```bash
 git clone https://github.com/[your-username]/oss-audit-[rollnumber].git
 cd oss-audit-[rollnumber]
 ```
 
-### Step 2 — Make Scripts Executable
+### Step 2 : Make Scripts Executable
 ```bash
 chmod +x script1_system_identity.sh
 chmod +x script2_package_inspector.sh
@@ -95,7 +95,7 @@ chmod +x script4_log_analyzer.sh
 chmod +x script5_manifesto_generator.sh
 ```
 
-### Step 3 — Run Each Script
+### Step 3 : Run Each Script
 
 ```bash
 # Script 1: System Identity
