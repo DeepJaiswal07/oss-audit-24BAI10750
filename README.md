@@ -1,4 +1,4 @@
-# OSS Audit — Git
+# OSS Audit : Git
 ### Open Source Software Capstone Project | VITyarthi
 
 | Field | Details |
