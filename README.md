@@ -134,16 +134,16 @@ chmod +x script5_manifesto_generator.sh
 
 ## System Requirements
 
-- Linux (Ubuntu 20.04+ / Fedora 35+ / any modern distro)
-- Bash 4.0 or higher
-- Git installed (for Script 2 to show package details)
-- Read access to `/var/log/` (for Script 4)
+(i) Linux (Ubuntu 20.04+ / Fedora 35+ / any modern distro)
+(ii) Bash 4.0 or higher
+(iii) Git installed (for Script 2 to show package details)
+(iv) Read access to `/var/log/` (for Script 4)
 
 ---
 
 ## Academic Integrity Note
 
-All shell scripts in this repository were written, tested, and understood by the student. The report submitted separately contains original analysis and personal reflection — not AI-generated content.
+All shell scripts in this repository were written, tested, and understood by the student. The report submitted separately contains original analysis and personal reflection, not AI-generated content.
 
 ---
 
